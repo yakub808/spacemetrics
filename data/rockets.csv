@@ -1,0 +1,8 @@
+company,rocket,crew_capacity,payload_max,payload_diameter,payload_height,payload_volume,fuel_type,destination,status
+Arianspace,Ariane 6 ,0,21700,5.4,20,160,hydrogen/LOX,LEO,in development
+Blue Origin,New Glenn,0,45000,7,21,500,methane/LOX,"LEO; Moon",in development
+Relativity Space,Terran R,0,20000,5.5,20,160,methane/LOX,"LEO; Moon; Mars",in development
+SpaceX,Falcon 9,0,22800,5.2,13.1,145,RP-1/LOX,LEO,active
+SpaceX,Falcon Heavy,0,63800,5.2,13.1,145,RP-1/LOX,LEO,active
+SpaceX,Starship,100,100000,8,22,1000,methane/LOX,"LEO; Moon; Mars",testing
+ULA,Vulcan Centaur,0,27000,5.4,19,150,methane/LOX,"LEO; Moon",active

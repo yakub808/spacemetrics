@@ -1,0 +1,14 @@
+name,type,distance,temp_day,temp_night,gravity,atmosphere,solar_radiation,water,soil,minerals,planetary_heat
+Mercury,terrestrial,0.39,430,-180,0.38,none,9.116,none,regolith,"silicates; iron",2.980
+Venus,terrestrial,0.72,465,465,0.9,CO2,2.636,none,basalt,"silicates; metals",3.041
+Earth,terrestrial,1,15,-10,1,N2/O2,1.361,liquid and ice water,soil,diverse minerals,401.538
+Moon,moon,1,127,-170,0.16,none,1.361,ice in craters,regolith,"silicon; iron; aluminum; calcium",13.183
+Mars,terrestrial,1.52,20,-80,0.38,CO2,586,ice caps,regolith,"silicon; iron; aluminum",147.694
+Europa,moon,5.2,-160,-160,0.13,O2 trace,50,subsurface ocean,ice,"water; silicate rock; iron-nickel core",264.250
+Titan,moon,9.5,-179,-179,0.14,N2/CH4,15,liquid methane/ethane lakes,ice,"water; hydrocarbons; silicates",244.256
+Jupiter,gaseous,5.2,-108,-163,2.34,H2/He,50.07,none,gaseous,"water ice; silicates; hydrogen",1842.00
+Saturn,gaseous,9.58,-139,-178,1.07,H2/He,14.29,none,gaseous,"water ice; silicates; hydrogen",1392.00
+Uranus,gaseous,19.18,-224,-214,0.89,H2/He,3.071,none,gaseous,"water; methane; hydrogen",585.00
+Neptune,gaseous,30.07,-218,-200,1.14,H2/He,2.731,none,gaseous,"water; methane; hydrogen",765.00
+Pluto,dwarf,39.48,-225,-233,0.06,none,0.016,none,ice,"water; methane; nitrogen",0.080
+Target,target,0,23,23,1,N2/O2,0,none,none,none,0

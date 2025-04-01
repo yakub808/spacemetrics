@@ -1,0 +1,10 @@
+name,type,density,strength,radiation_shielding,emissivity,thermal_conductivity,heat_capacity,exterior_applications,interior_applications,destination
+Aluminum,metal,2840,400,LOW,0.075,205,900,"rocket tanks; secondary structural frameworks; shielding","furniture joints; light casings; window frames","LEO; Moon; Mars"
+Titanium,metal,4500,900,LOW,0.6,22,540,"landing legs; structural frameworks; shielding","wall/floor panels; structural support; storage frames","LEO; Moon; Mars"
+Carbon Fiber,composite,1600,3000,LOW,0.8,0.5,750,"structural reinforcements; panels","walls; partitions; flooring; storage units; fixtures","LEO; Moon; Mars"
+Aerogel,aerogel,3,20,HIGH,0.9,0.02,1000,"radiation shielding; thermal insulation","window insulation; floor insulation; wall linings","LEO; Moon; Mars"
+Polymer,polymer,1320,100,MEDIUM,0.8,0.35,1500,"insulation; hulls radiation shielding","floor insulation; wall/storage linings; furniture surfaces","LEO; Moon; Mars"
+Kevlar,polymer,1440,3620,MEDIUM,0.75,0.14,1420,"impact shielding; inflatable structures","fabric elements; acoustic panels","LEO; Moon; Mars"
+Regolith,in-situ,1600,30,HIGH,0.9,0.2,900,"exterior shielding; flooring",none,"Moon; Mars"
+Water,liquid,1000,0.1,MEDIUM,0.95,0.6,4100,"radiation shielding; thermal regulation",none,"LEO; Moon; Mars"
+Earth Like Atmo,gas,1.2,0.1,LOW,0,0.02,1000,"pressurization; thermal regulation",none,"LEO; Moon; Mars"
